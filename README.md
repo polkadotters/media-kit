@@ -1,6 +1,7 @@
 # Polkadotters Media kit
+![Polkadotters logo](long_banner_whiteBG.png)
 
-Images and graphics for our Polkadotters brand that can be used by our partners
+Images and graphics for our Polkadotters brand that can be used by our partners.
 
 ## Zip file
 
